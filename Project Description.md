@@ -1,4 +1,4 @@
-### Project Overview: Universal Bank Personal Loan Campaign
+### Project Overview: Universal Bank Personal Loan Project
 
 #### Objective
 The goal of this project is to optimize Universal Bank's outreach for their personal loan offering by predicting which customers will utilize the loan. There's a significant cost associated with contacting all potential customers: a $1.00 mailing fee per customer and an additional $140.00 processing and setup fee for each accepted loan. If a loan is accepted but not utilized, it results in a $141.00 loss for the bank. Conversely, an active loan generates a net profit of $859. To mitigate the risk and maximize profitability, we aim to forecast which customers are most likely to accept and use the loan, based on historical data.
