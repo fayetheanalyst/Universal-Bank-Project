@@ -26,4 +26,4 @@ Performance metrics such as accuracy, net profit, loan acceptance rate, number o
 #### Results and Recommendation
 The Random Forest model emerged as the top performer, exhibiting the highest net profit and accuracy score. Therefore, this model is recommended for predicting which customers to target for the personal loan offering.
 
-By implementing the Random Forest model, Universal Bank can strategically contact potential loan customers, thereby minimizing costs and maximizing profitability.
+By implementing the Random Forest model, Universal Bank can strategically contact customers who will utilize the loan, thereby minimizing costs and maximizing profitability.
